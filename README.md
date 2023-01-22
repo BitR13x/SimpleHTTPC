@@ -2,10 +2,10 @@
 A simple http server programmed in C for windows
 
 ### Socket-programming examples for linux and windows:
-linux_client.c
-linux_server.c
-windows_client.c
-windows_server.c
+- linux_client.c
+- linux_server.c
+- windows_client.c
+- windows_server.c
 
 ### Resources to learn more about socket programming:
 
