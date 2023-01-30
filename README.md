@@ -1,5 +1,6 @@
 # SimpleHTTPC
 A simple http server programmed in C for windows
+https://medium.com/@bitr13x/introduction-into-socket-programming-49b80d1a962f
 
 ### Socket-programming examples for linux and windows:
 - linux_client.c
