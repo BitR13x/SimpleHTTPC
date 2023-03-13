@@ -1,5 +1,5 @@
 # SimpleHTTPC
-SimpleHTTPC repositry provides a collection of sample codes and examples for creating networking applications using sockets including HTTP protocol.
+SimpleHTTPC repository provides a collection of sample codes and examples for creating networking applications using sockets including HTTP protocol.
 - https://medium.com/@bitr13x/introduction-into-socket-programming-49b80d1a962f
 
 ### Socket-programming examples for linux and windows:
